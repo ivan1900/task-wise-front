@@ -150,7 +150,7 @@ export default function Features() {
             <Card
               key={index}
               className='bg-gray-50 dark:bg-gray-800 border-none hover:shadow-xl transition-shadow duration-300'>
-              <Card.Description className='p-6 space-y-4'>
+              <Card.Content className='p-6 space-y-4'>
                 <div
                   className={`w-14 h-14 rounded-xl bg-gradient-to-br ${feature.gradient} flex items-center justify-center text-white`}>
                   {feature.icon}
@@ -161,7 +161,7 @@ export default function Features() {
                 <p className='text-gray-600 dark:text-gray-300 leading-relaxed'>
                   {feature.description}
                 </p>
-              </Card.Description>
+              </Card.Content>
             </Card>
           ))}
         </div>
