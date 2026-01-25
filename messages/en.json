@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "brand": "Task Wise",
+    "logoAlt": "Task Wise Logo",
+    "headline1": "Master Your Tasks,",
+    "headline2": "Maximize Your Time",
+    "description": "Smart task prioritization for workers and students using proven methods like the Eisenhower Matrix. Focus on what truly matters.",
+    "ctaGetStarted": "Get Started Free",
+    "ctaWatchDemo": "Watch Demo",
+    "socialProof": {
+      "openSource": "Open Source & Free",
+      "noRegistration": "No Registration Needed",
+      "communityDriven": "Community Driven"
+    }
+  },
+  "features": {
+    "title1": "Everything You Need to",
+    "title2": "Stay Productive",
+    "subtitle": "Powerful features designed to help you prioritize what matters most and achieve your goals efficiently.",
+    "items": {
+      "smartPrioritization": {
+        "title": "Smart Task Prioritization",
+        "description": "Leverage the Eisenhower Matrix to categorize tasks by urgency and importance. Know exactly what to tackle first."
+      },
+      "timeEstimation": {
+        "title": "Accurate Time Estimation",
+        "description": "Get intelligent time estimates for your tasks based on complexity and historical data. Plan your day with confidence."
+      },
+      "analytics": {
+        "title": "Productivity Analytics",
+        "description": "Track your progress and understand your productivity patterns. Get insights to improve your workflow."
+      },
+      "quickCapture": {
+        "title": "Quick Capture",
+        "description": "Instantly capture tasks as they come to mind. Add context, deadlines, and priority with ease."
+      },
+      "smartScheduling": {
+        "title": "Smart Scheduling",
+        "description": "Automatically organize your day based on priorities, deadlines, and available time slots."
+      },
+      "flexibleWorkflows": {
+        "title": "Flexible Workflows",
+        "description": "Customize your task management system to fit your unique workflow. Whether student or professional."
+      }
+    }
+  },
+  "howItWorks": {
+    "title1": "How Task Wise",
+    "title2": "Works",
+    "subtitle": "Four simple steps to transform your productivity and take control of your tasks.",
+    "steps": {
+      "capture": {
+        "number": "01",
+        "title": "Capture Your Tasks",
+        "description": "Quickly add all your tasks, assignments, and to-dos in one place. Include deadlines, context, and any relevant details."
+      },
+      "estimate": {
+        "number": "02",
+        "title": "Estimate Time & Priority",
+        "description": "Get smart suggestions for time estimates and let our AI help you assess the urgency and importance of each task."
+      },
+      "organize": {
+        "number": "03",
+        "title": "Organize with Eisenhower Matrix",
+        "description": "Tasks are automatically categorized: Do First (urgent & important), Schedule (important), Delegate (urgent), or Eliminate (neither)."
+      },
+      "execute": {
+        "number": "04",
+        "title": "Execute & Track Progress",
+        "description": "Focus on your prioritized tasks with a clear daily plan. Track your progress and adjust as needed to stay productive."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Productivity?",
+    "subtitle": "Join the community of workers and students mastering their tasks with Task Wise, an open source solution.",
+    "emailPlaceholder": "Enter your email",
+    "ctaButton": "Get Started",
+    "benefits": {
+      "freeOpenSource": "Free & Open Source",
+      "privacyFocused": "Privacy focused",
+      "selfHosted": "Self-hosted option"
+    },
+    "openSourceFeatures": {
+      "openSource": "Open Source",
+      "customizable": "Customizable",
+      "communityPowered": "Community Powered"
+    }
+  }
+}

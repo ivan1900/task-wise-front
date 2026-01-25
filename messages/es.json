@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "brand": "Task Wise",
+    "logoAlt": "Logo de Task Wise",
+    "headline1": "Domina Tus Tareas,",
+    "headline2": "Maximiza Tu Tiempo",
+    "description": "Priorización inteligente de tareas para trabajadores y estudiantes utilizando métodos probados como la Matriz de Eisenhower. Enfócate en lo que realmente importa.",
+    "ctaGetStarted": "Comienza Gratis",
+    "ctaWatchDemo": "Ver Demo",
+    "socialProof": {
+      "openSource": "Código Abierto y Gratis",
+      "noRegistration": "Sin Registro Necesario",
+      "communityDriven": "Impulsado por la Comunidad"
+    }
+  },
+  "features": {
+    "title1": "Todo lo que Necesitas para",
+    "title2": "Mantenerte Productivo",
+    "subtitle": "Características poderosas diseñadas para ayudarte a priorizar lo que más importa y alcanzar tus objetivos eficientemente.",
+    "items": {
+      "smartPrioritization": {
+        "title": "Priorización Inteligente de Tareas",
+        "description": "Aprovecha la Matriz de Eisenhower para categorizar tareas por urgencia e importancia. Sabe exactamente qué abordar primero."
+      },
+      "timeEstimation": {
+        "title": "Estimación Precisa de Tiempo",
+        "description": "Obtén estimaciones inteligentes de tiempo para tus tareas basadas en complejidad y datos históricos. Planifica tu día con confianza."
+      },
+      "analytics": {
+        "title": "Análisis de Productividad",
+        "description": "Rastrea tu progreso y comprende tus patrones de productividad. Obtén información para mejorar tu flujo de trabajo."
+      },
+      "quickCapture": {
+        "title": "Captura Rápida",
+        "description": "Captura instantáneamente tareas a medida que vienen a tu mente. Agrega contexto, plazos y prioridad con facilidad."
+      },
+      "smartScheduling": {
+        "title": "Programación Inteligente",
+        "description": "Organiza automáticamente tu día basándose en prioridades, plazos y franjas horarias disponibles."
+      },
+      "flexibleWorkflows": {
+        "title": "Flujos de Trabajo Flexibles",
+        "description": "Personaliza tu sistema de gestión de tareas para adaptarse a tu flujo de trabajo único. Ya seas estudiante o profesional."
+      }
+    }
+  },
+  "howItWorks": {
+    "title1": "Cómo Funciona",
+    "title2": "Task Wise",
+    "subtitle": "Cuatro simples pasos para transformar tu productividad y tomar control de tus tareas.",
+    "steps": {
+      "capture": {
+        "number": "01",
+        "title": "Captura Tus Tareas",
+        "description": "Agrega rápidamente todas tus tareas, asignaciones y pendientes en un solo lugar. Incluye plazos, contexto y cualquier detalle relevante."
+      },
+      "estimate": {
+        "number": "02",
+        "title": "Estima Tiempo y Prioridad",
+        "description": "Obtén sugerencias inteligentes para estimaciones de tiempo y deja que nuestra IA te ayude a evaluar la urgencia e importancia de cada tarea."
+      },
+      "organize": {
+        "number": "03",
+        "title": "Organiza con la Matriz de Eisenhower",
+        "description": "Las tareas se categorizan automáticamente: Hacer Primero (urgente e importante), Programar (importante), Delegar (urgente) o Eliminar (ninguno)."
+      },
+      "execute": {
+        "number": "04",
+        "title": "Ejecuta y Rastrea el Progreso",
+        "description": "Enfócate en tus tareas priorizadas con un plan diario claro. Rastrea tu progreso y ajusta según sea necesario para mantenerte productivo."
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Transformar Tu Productividad?",
+    "subtitle": "Únete a la comunidad de trabajadores y estudiantes que dominan sus tareas con Task Wise, una solución de código abierto.",
+    "emailPlaceholder": "Ingresa tu correo electrónico",
+    "ctaButton": "Comenzar",
+    "benefits": {
+      "freeOpenSource": "Gratis y Código Abierto",
+      "privacyFocused": "Enfocado en la Privacidad",
+      "selfHosted": "Opción de Auto-Hospedaje"
+    },
+    "openSourceFeatures": {
+      "openSource": "Código Abierto",
+      "customizable": "Personalizable",
+      "communityPowered": "Impulsado por la Comunidad"
+    }
+  }
+}
