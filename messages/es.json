@@ -86,5 +86,8 @@
       "customizable": "Personalizable",
       "communityPowered": "Impulsado por la Comunidad"
     }
+  },
+  "auth": {
+    "signIn": "Iniciar sesión"
   }
 }

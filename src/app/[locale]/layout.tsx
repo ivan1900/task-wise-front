@@ -11,6 +11,7 @@ import { notFound } from 'next/navigation';
 import { Geist, Geist_Mono } from 'next/font/google';
 import { locales } from '@/i18n/request';
 import LocaleSwitcher from '@/components/LocaleSwitcher';
+import SignInButton from '@/components/SignInButton';
 import '../globals.css';
 
 const geistSans = Geist({
@@ -118,7 +119,8 @@ export default async function LocaleLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <MantineProvider theme={theme}>
-            <div className='fixed top-4 right-4 z-50'>
+            <div className='fixed top-4 right-4 z-50 flex items-center gap-2'>
+              <SignInButton />
               <LocaleSwitcher />
             </div>
             {children}
